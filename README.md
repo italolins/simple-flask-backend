@@ -1,6 +1,5 @@
 # Simple Flask Backend
 
-***
 This repository creates a simple and basic flask backend.
 Follow the steps to run this simple backend.
 
